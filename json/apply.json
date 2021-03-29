@@ -1,18 +1,15 @@
 {
     "data": {
-        "type": "vars",
         "attributes": {
-            "key": "placeholder",
-            "value": "just a place holder",
-            "category": "terraform",
-            "hcl": false,
-            "sensitive": false
+            "is-destroy": false,
+            "message": "Terraform Cloud API is Magic! 🦄 🌈 🧙‍♂️"
         },
+        "type": "runs",
         "relationships": {
             "workspace": {
                 "data": {
-                    "id": "ws-kKXkjHvjbJ7UqCvh",
-                    "type": "workspaces"
+                    "type": "workspaces",
+                    "id": "ws-kKXkjHvjbJ7UqCvh"
                 }
             }
         }
